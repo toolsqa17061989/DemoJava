@@ -6,7 +6,7 @@ public class Hello_ToolsQA {
     {
         for(int i=0; i<6; i++)
         {
-            //Commit for webhooks 2
+            //Commit for webhooks 2 test
             System.out.println("Hello ToolsQA");
         }
     }
